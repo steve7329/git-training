@@ -16,5 +16,6 @@ int main()
 	printf("English : %d\n", eng);
 	printf("Math : %d\n", math);
 	printf("Sum : %d\n", sum);
+	printf("Average1 : %d\n", sum/3);
 	return 0;
 }
